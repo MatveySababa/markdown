@@ -1,0 +1,14 @@
+# Editors directories and files
+.idea
+.vscode
+Thumbs.db
+*.log
+*.py?
+/build/
+/*.txt
+doc/*.html
+users/*/private
+**/app/cache
+docs/**/*.html
+/instal/*
+!instal/packages.xml
